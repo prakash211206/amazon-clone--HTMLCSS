@@ -22,16 +22,7 @@ The clone includes key elements of the Amazon shopping experience:
 - CSS3 (Flexbox)
 - Font Awesome icons
 
-## Getting Started
 
-1. Clone the repo
-```bash
-git clone https://github.com/yourusername/amazon-clone
-```
-
-2. Open `AMAZON CLONE PROJECT.html` in your browser
-
-That's it! No build process or dependencies to install.
 
 ## Learning Notes
 
