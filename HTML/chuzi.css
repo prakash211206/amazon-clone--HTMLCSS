@@ -1,0 +1,26 @@
+.navbar{
+    background-color: deeppink;
+    display:flex;
+    justify-content: space-evenly;
+
+}
+li{
+    list-style: none;
+    list-style-type: none;
+}
+#outer{
+    background-color: pink ;
+    height: 400px;
+    width: 400px;
+
+
+
+}
+#inner{
+    background-color: #f08804;
+    height: 100px;
+    width: 100px;
+   transform: translateX(150px);
+
+
+}
